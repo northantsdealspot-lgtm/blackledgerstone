@@ -1,5 +1,5 @@
-const CACHE='blackledgerstone-v2.1.0-intel';
-const CORE=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./icons/raven-192.png','./icons/raven-512.png'];
+const CACHE='blackledgerstone-v2.1.1-github';
+const CORE=['./','./index.html','./styles.css','./app.js','./manifest.webmanifest','./raven-192.png','./raven-512.png'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(CORE)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',event=>{
