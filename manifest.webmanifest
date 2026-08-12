@@ -8,7 +8,7 @@
   "background_color": "#0b0b0d",
   "theme_color": "#7d1117",
   "icons": [
-    {"src":"./icons/raven-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"./icons/raven-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+    {"src":"./raven-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./raven-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }
