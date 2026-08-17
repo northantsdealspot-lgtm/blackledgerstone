@@ -1,5 +1,5 @@
 {
-  "version": "3.0",
+  "version": "3.1",
   "purpose": "Zero-capital UK and Ireland property sourcing. Public and open sources first; paid portals are not required.",
   "sources": [
     {"name":"UK Government Property Finder","country":"UK","category":"public-sector","url":"https://www.gov.uk/find-government-property","weight":20},
@@ -9,10 +9,10 @@
     {"name":"Planning Data England","country":"UK","category":"planning","url":"https://www.planning.data.gov.uk/","weight":18},
     {"name":"The Gazette","country":"UK","category":"insolvency-probate","url":"https://www.thegazette.co.uk/","weight":20},
     {"name":"Bona Vacantia","country":"UK","category":"ownerless-assets","url":"https://www.gov.uk/government/organisations/bona-vacantia","weight":18},
-    {"name":"Eddisons Property Auctions","country":"UK","category":"auction","url":"https://www.eddisons.com/properties/auctions","weight":16},
-    {"name":"LSH Auctions","country":"UK","category":"auction-commercial","url":"https://www.lsh.co.uk/explore/property-auctions","weight":16},
+    {"name":"BTG Eddisons Property Auctions","country":"UK","category":"auction","url":"https://www.eddisons.com/agency-and-auctions/property-auctions","weight":16},
+    {"name":"LSH Property Auctions","country":"UK","category":"auction-commercial","url":"https://propertyauctions.lsh.co.uk/","weight":16},
     {"name":"Allsop Auctions","country":"UK","category":"auction","url":"https://www.allsop.co.uk/auctions/","weight":16},
-    {"name":"Ireland Local Government Planning","country":"Ireland","category":"planning","url":"https://planning.localgov.ie/","weight":18},
+    {"name":"Ireland National Planning Applications","country":"Ireland","category":"planning","url":"https://data.gov.ie/dataset/national-planning-applications?package_type=dataset","weight":18},
     {"name":"Ireland Open Data Vacant Sites","country":"Ireland","category":"vacant-land","url":"https://data.gov.ie/dataset?tags=vacant","weight":22},
     {"name":"Ireland Residential Property Price Register","country":"Ireland","category":"comparables","url":"https://www.propertypriceregister.ie/","weight":8},
     {"name":"BidX1 Ireland","country":"Ireland","category":"auction","url":"https://bidx1.com/en/ireland","weight":16},
