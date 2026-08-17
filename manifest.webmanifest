@@ -1,12 +1,12 @@
 {
-  "name": "BlackLedgerStone Property Intelligence",
-  "short_name": "BlackLedgerStone",
-  "description": "Property sourcing, due diligence, deal analysis, investor matching and pipeline management.",
-  "start_url": "./index.html",
+  "name": "Raven Property Intelligence",
+  "short_name": "Raven",
+  "description": "BlackLedgerStone UK and Ireland property intelligence, sourcing, due diligence, investor matching and revenue pipeline.",
+  "start_url": "./raven-scout.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b0b0d",
-  "theme_color": "#7d1117",
+  "background_color": "#08090b",
+  "theme_color": "#09090b",
   "icons": [
     {"src":"./raven-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
     {"src":"./raven-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
