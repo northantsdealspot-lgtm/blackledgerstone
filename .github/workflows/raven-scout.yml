@@ -4,6 +4,19 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '30 5 * * *'
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/raven_scout.py'
+      - 'config/raven_sources.json'
+      - 'config/raven_scoring.json'
+      - 'config/raven_strategies.json'
+      - 'raven-scout.html'
+      - 'raven.html'
+      - 'manifest.webmanifest'
+      - 'service-worker.js'
+      - '.github/workflows/raven-scout.yml'
   pull_request:
     paths:
       - 'scripts/raven_scout.py'
