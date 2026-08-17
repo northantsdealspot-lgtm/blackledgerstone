@@ -1,0 +1,28 @@
+{
+  "version":"3.0",
+  "principle":"Rank opportunities by probability of monetising a protected sourcing/introduction fee quickly without requiring the sourcer's own capital.",
+  "weights":{
+    "motivation":25,
+    "margin_or_discount":20,
+    "investor_demand":15,
+    "speed_to_fee":15,
+    "evidence_confidence":10,
+    "planning_or_conversion_upside":10,
+    "exclusivity_or_early_access":5
+  },
+  "penalties":{
+    "unverified_material_claim":-10,
+    "major_title_or_access_uncertainty":-12,
+    "high_structural_risk":-12,
+    "weak_investor_fit":-15,
+    "requires_sourcer_capital":-25,
+    "no_identifiable_route_to_vendor_or_agent":-8
+  },
+  "tiers":[
+    {"name":"Tier 1","min":75,"meaning":"Immediate verification and controlled approach"},
+    {"name":"Tier 2","min":55,"meaning":"Worth deeper research today"},
+    {"name":"Tier 3","min":35,"meaning":"Watch or enrich before spending time"},
+    {"name":"Reject","min":0,"meaning":"Insufficient commercial case"}
+  ],
+  "required_profile_fields":["source","source_date","country","location","asset_type","asking_or_guide_price","motivation_signals","planning_status","ownership_status","comparable_evidence","estimated_margin","investor_fit","route_to_contact","risk_flags","next_action"]
+}
