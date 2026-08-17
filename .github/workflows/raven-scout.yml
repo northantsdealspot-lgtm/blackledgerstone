@@ -9,6 +9,7 @@ on:
       - 'scripts/raven_scout.py'
       - 'config/raven_sources.json'
       - 'config/raven_scoring.json'
+      - 'config/raven_strategies.json'
       - '.github/workflows/raven-scout.yml'
 
 permissions:
@@ -27,16 +28,7 @@ jobs:
       - name: Run Raven Scout
         run: python scripts/raven_scout.py
       - name: Validate lead feed
-        run: python - <<'PY'
-          import json
-          from pathlib import Path
-          p=Path('data/leads.json')
-          data=json.loads(p.read_text())
-          assert isinstance(data.get('leads'), list)
-          assert isinstance(data.get('health'), list)
-          assert data.get('version') == '3.0'
-          print('validated', len(data['leads']), 'leads across', len(data['health']), 'sources')
-          PY
+        run: python -c "import json,pathlib; d=json.loads(pathlib.Path('data/leads.json').read_text()); assert isinstance(d.get('leads'),list); assert isinstance(d.get('health'),list); assert d.get('version')=='3.0'; print('validated',len(d['leads']),'leads across',len(d['health']),'sources')"
       - name: Commit updated lead feed
         if: github.event_name != 'pull_request'
         run: |
