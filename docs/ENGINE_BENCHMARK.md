@@ -26,6 +26,18 @@ Raven borrows product patterns, not proprietary code or restricted datasets.
 - Property intelligence structured so it can be consumed by automation/AI.
 - Planning and constraint data treated as verification inputs rather than marketing claims.
 
+## Searchland patterns adopted
+- Preset strategy searches alongside custom criteria.
+- Title-level view combining ownership, planning constraints and sales history.
+- Strategic-land filters such as SHLAA/local-plan context and unconstrained-land thinking.
+- Investor/developer requirements translated into reusable sourcing searches.
+
+## Landstack patterns adopted
+- Natural-language site-finder concept: describe the required opportunity and convert it into structured filters.
+- Standardised planning classifications and use-class/change-of-use searches.
+- Allocations, emerging/adopted policy and land-availability context treated as opportunity signals.
+- Fast site-appraisal summary before deeper work.
+
 ## Raven differentiators
 - UK and Ireland rather than UK-only.
 - Public-sector, insolvency, surplus, unusual conversion and unwanted assets are first-class sources.
@@ -33,3 +45,4 @@ Raven borrows product patterns, not proprietary code or restricted datasets.
 - Human approval and fee protection before sensitive release or outbound contact.
 - Evidence confidence is separate from opportunity score.
 - Every lead carries a next action and can be learned from after win/loss.
+- Free/open data is preferred so the core system does not depend on paid credits.
