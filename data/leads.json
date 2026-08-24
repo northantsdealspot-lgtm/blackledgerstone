@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-23T07:22:40.561879+00:00",
+  "generated": "2026-08-24T08:09:12.341282+00:00",
   "version": "4.0",
   "summary": {
-    "raven_found": 314,
+    "raven_found": 348,
     "tier_1": 0,
     "tier_2": 6,
     "potential_fee_pipeline_gbp": 18000,
-    "healthy_sources": 13,
+    "healthy_sources": 15,
     "total_sources": 15
   },
-  "lead_count": 314,
+  "lead_count": 348,
   "health": [
     {
       "source": "UK Government Property Finder",
@@ -73,15 +73,15 @@
     },
     {
       "source": "Ireland National Planning Applications",
-      "ok": false,
-      "count": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='data.gov.ie', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "count": 16,
+      "error": null
     },
     {
       "source": "Ireland Open Data Vacant Sites",
-      "ok": false,
-      "count": 0,
-      "error": "ReadTimeout: HTTPSConnectionPool(host='data.gov.ie', port=443): Read timed out. (read timeout=20)"
+      "ok": true,
+      "count": 18,
+      "error": null
     },
     {
       "source": "Ireland Residential Property Price Register",
@@ -126,7 +126,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 3000,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057725+00:00",
+      "discovered": "2026-08-24T08:09:11.837411+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -152,7 +152,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 3000,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139921+00:00",
+      "discovered": "2026-08-24T08:09:09.898520+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -177,7 +177,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 3000,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139747+00:00",
+      "discovered": "2026-08-24T08:09:09.898336+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -202,7 +202,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 3000,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139354+00:00",
+      "discovered": "2026-08-24T08:09:09.898026+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -227,7 +227,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 3000,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058659+00:00",
+      "discovered": "2026-08-24T08:09:11.838294+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -252,7 +252,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 3000,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139258+00:00",
+      "discovered": "2026-08-24T08:09:09.897945+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -276,7 +276,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140737+00:00",
+      "discovered": "2026-08-24T08:09:09.899185+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -300,7 +300,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140451+00:00",
+      "discovered": "2026-08-24T08:09:09.898975+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -324,7 +324,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140367+00:00",
+      "discovered": "2026-08-24T08:09:09.898904+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -347,7 +347,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512651+00:00",
+      "discovered": "2026-08-24T08:08:57.735947+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -370,7 +370,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512459+00:00",
+      "discovered": "2026-08-24T08:08:57.735791+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -393,7 +393,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511932+00:00",
+      "discovered": "2026-08-24T08:08:57.735254+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -416,7 +416,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511584+00:00",
+      "discovered": "2026-08-24T08:08:57.734913+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -439,7 +439,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511006+00:00",
+      "discovered": "2026-08-24T08:08:57.734346+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -462,7 +462,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244054+00:00",
+      "discovered": "2026-08-24T08:08:54.843066+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -485,7 +485,51 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739847+00:00",
+      "discovered": "2026-08-24T08:08:53.491831+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "d56923615bf24cd4",
+      "title": "Dún Laoghaire-Rathdown County Council (1)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&organization=dun-laoghaire-rathdown-county-council",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 34,
+      "commercial_score": 53,
+      "tier": "WATCH",
+      "signals": [
+        "council",
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774312+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "55ee88478f97738c",
+      "title": "Dublin City Council (1)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&organization=dublin-city-council",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 34,
+      "commercial_score": 53,
+      "tier": "WATCH",
+      "signals": [
+        "council",
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774265+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -508,7 +552,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140990+00:00",
+      "discovered": "2026-08-24T08:09:09.899396+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -531,7 +575,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140827+00:00",
+      "discovered": "2026-08-24T08:09:09.899257+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -554,7 +598,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140283+00:00",
+      "discovered": "2026-08-24T08:09:09.898831+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -577,7 +621,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140203+00:00",
+      "discovered": "2026-08-24T08:09:09.898761+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -600,7 +644,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140112+00:00",
+      "discovered": "2026-08-24T08:09:09.898686+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -623,7 +667,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139654+00:00",
+      "discovered": "2026-08-24T08:09:09.898262+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -646,7 +690,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139554+00:00",
+      "discovered": "2026-08-24T08:09:09.898182+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -669,7 +713,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058818+00:00",
+      "discovered": "2026-08-24T08:09:11.838437+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -691,7 +735,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739807+00:00",
+      "discovered": "2026-08-24T08:08:53.491790+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -714,7 +758,7 @@
       "evidence_confidence": "Medium",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275474+00:00",
+      "discovered": "2026-08-24T08:08:51.804712+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -737,7 +781,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.141147+00:00",
+      "discovered": "2026-08-24T08:09:09.899554+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -760,7 +804,51 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.138992+00:00",
+      "discovered": "2026-08-24T08:09:09.897700+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "ba0e4e1905ea6dac",
+      "title": "Vacant Sites Register DLR",
+      "url": "https://data.gov.ie/dataset/vacant-sites-register-dlr",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 33,
+      "commercial_score": 47,
+      "tier": "WATCH",
+      "signals": [
+        "site",
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774758+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "ef235d20a53a9a55",
+      "title": "Vacant Sites Register DCC",
+      "url": "https://data.gov.ie/dataset/vacant-sites-register-dcc",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 33,
+      "commercial_score": 47,
+      "tier": "WATCH",
+      "signals": [
+        "site",
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774644+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -783,7 +871,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058736+00:00",
+      "discovered": "2026-08-24T08:09:11.838364+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -805,7 +893,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512734+00:00",
+      "discovered": "2026-08-24T08:08:57.736027+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -827,7 +915,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512695+00:00",
+      "discovered": "2026-08-24T08:08:57.735988+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -849,7 +937,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512608+00:00",
+      "discovered": "2026-08-24T08:08:57.735906+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -871,7 +959,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511420+00:00",
+      "discovered": "2026-08-24T08:08:57.734780+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -893,7 +981,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511352+00:00",
+      "discovered": "2026-08-24T08:08:57.734713+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -915,7 +1003,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.510956+00:00",
+      "discovered": "2026-08-24T08:08:57.734298+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -937,7 +1025,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.510067+00:00",
+      "discovered": "2026-08-24T08:08:57.733462+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -960,7 +1048,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.766861+00:00",
+      "discovered": "2026-08-24T08:08:50.416094+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -982,7 +1070,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511232+00:00",
+      "discovered": "2026-08-24T08:08:57.734592+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1004,7 +1092,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058226+00:00",
+      "discovered": "2026-08-24T08:09:11.837929+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1026,7 +1114,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057523+00:00",
+      "discovered": "2026-08-24T08:09:11.837243+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1048,7 +1136,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057417+00:00",
+      "discovered": "2026-08-24T08:09:11.837162+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1070,7 +1158,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.141065+00:00",
+      "discovered": "2026-08-24T08:09:09.899460+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1092,7 +1180,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140910+00:00",
+      "discovered": "2026-08-24T08:09:09.899326+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1114,7 +1202,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140655+00:00",
+      "discovered": "2026-08-24T08:09:09.899116+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1136,7 +1224,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140560+00:00",
+      "discovered": "2026-08-24T08:09:09.899045+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1158,7 +1246,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.140021+00:00",
+      "discovered": "2026-08-24T08:09:09.898605+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1180,7 +1268,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139835+00:00",
+      "discovered": "2026-08-24T08:09:09.898407+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1202,7 +1290,175 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139444+00:00",
+      "discovered": "2026-08-24T08:09:09.898105+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "0ec49cc61a0cf6a7",
+      "title": "Search Tips",
+      "url": "https://data.gov.ie/dataset?tags=vacant",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774549+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "f480ba8a709dbc93",
+      "title": "★☆☆☆☆ (1)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&openness_score=1",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774444+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "ae0efacde28f228c",
+      "title": "★★★☆☆ (1)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&openness_score=3",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774401+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "0b9f86d86e37fb11",
+      "title": "Creative Commons Attribution 4.0 (2)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&license_id=CC-BY-4.0",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774353+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "bf17ba5c8b51cc31",
+      "title": "Datasets with APIs (1)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&api=true",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774159+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "d60bc2f9d54d0a04",
+      "title": "Datasets without APIs (1)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&api=false",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774118+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "d0c600547f203437",
+      "title": "Housing and Zoning (2)",
+      "url": "https://data.gov.ie/dataset/?tags=vacant&theme=Housing",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774051+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "290790b5b2a53284",
+      "title": "Skip to content",
+      "url": "https://data.gov.ie/dataset?tags=vacant#content",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 29,
+      "commercial_score": 43,
+      "tier": "WATCH",
+      "signals": [
+        "vacant"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.773347+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1224,7 +1480,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311710+00:00",
+      "discovered": "2026-08-24T08:08:59.596584+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1246,7 +1502,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311669+00:00",
+      "discovered": "2026-08-24T08:08:59.596541+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1268,7 +1524,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.276692+00:00",
+      "discovered": "2026-08-24T08:08:51.805876+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1290,7 +1546,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275797+00:00",
+      "discovered": "2026-08-24T08:08:51.805027+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1312,7 +1568,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275425+00:00",
+      "discovered": "2026-08-24T08:08:51.804665+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1334,7 +1590,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275343+00:00",
+      "discovered": "2026-08-24T08:08:51.804580+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1356,7 +1612,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275300+00:00",
+      "discovered": "2026-08-24T08:08:51.804536+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1378,7 +1634,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275205+00:00",
+      "discovered": "2026-08-24T08:08:51.804416+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1400,7 +1656,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058574+00:00",
+      "discovered": "2026-08-24T08:09:11.838220+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1422,7 +1678,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057336+00:00",
+      "discovered": "2026-08-24T08:09:11.837089+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1444,7 +1700,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056787+00:00",
+      "discovered": "2026-08-24T08:09:11.836591+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1466,7 +1722,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056710+00:00",
+      "discovered": "2026-08-24T08:09:11.836518+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1488,7 +1744,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056525+00:00",
+      "discovered": "2026-08-24T08:09:11.836336+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1510,7 +1766,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056343+00:00",
+      "discovered": "2026-08-24T08:09:11.836200+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1532,7 +1788,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056166+00:00",
+      "discovered": "2026-08-24T08:09:11.836041+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1554,7 +1810,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.906121+00:00",
+      "discovered": "2026-08-24T08:09:03.397576+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1576,7 +1832,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.905919+00:00",
+      "discovered": "2026-08-24T08:09:03.397202+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1598,7 +1854,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.905808+00:00",
+      "discovered": "2026-08-24T08:09:03.397042+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1620,7 +1876,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903536+00:00",
+      "discovered": "2026-08-24T08:09:03.392975+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1642,7 +1898,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.312727+00:00",
+      "discovered": "2026-08-24T08:08:59.597591+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1664,7 +1920,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311171+00:00",
+      "discovered": "2026-08-24T08:08:59.596060+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1686,7 +1942,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.767837+00:00",
+      "discovered": "2026-08-24T08:08:50.417110+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1708,7 +1964,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.059063+00:00",
+      "discovered": "2026-08-24T08:09:11.838682+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1730,7 +1986,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058466+00:00",
+      "discovered": "2026-08-24T08:09:11.838145+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1752,7 +2008,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058385+00:00",
+      "discovered": "2026-08-24T08:09:11.838072+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1774,7 +2030,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058306+00:00",
+      "discovered": "2026-08-24T08:09:11.838002+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1796,7 +2052,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057810+00:00",
+      "discovered": "2026-08-24T08:09:11.837535+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1818,7 +2074,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057614+00:00",
+      "discovered": "2026-08-24T08:09:11.837318+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1840,7 +2096,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057167+00:00",
+      "discovered": "2026-08-24T08:09:11.836942+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1862,7 +2118,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244184+00:00",
+      "discovered": "2026-08-24T08:08:54.843190+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1884,7 +2140,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.766897+00:00",
+      "discovered": "2026-08-24T08:08:50.416132+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1906,7 +2162,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.513592+00:00",
+      "discovered": "2026-08-24T08:08:57.736862+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1928,7 +2184,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512061+00:00",
+      "discovered": "2026-08-24T08:08:57.735395+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1950,7 +2206,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511068+00:00",
+      "discovered": "2026-08-24T08:08:57.734404+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1972,7 +2228,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.857235+00:00",
+      "discovered": "2026-08-24T08:08:55.547356+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -1994,7 +2250,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.245063+00:00",
+      "discovered": "2026-08-24T08:08:54.844082+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2016,7 +2272,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244101+00:00",
+      "discovered": "2026-08-24T08:08:54.843110+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2038,7 +2294,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244002+00:00",
+      "discovered": "2026-08-24T08:08:54.843017+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2060,7 +2316,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.243684+00:00",
+      "discovered": "2026-08-24T08:08:54.842719+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2082,7 +2338,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.740390+00:00",
+      "discovered": "2026-08-24T08:08:53.492369+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2104,7 +2360,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.740059+00:00",
+      "discovered": "2026-08-24T08:08:53.492041+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2126,7 +2382,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.740020+00:00",
+      "discovered": "2026-08-24T08:08:53.492002+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2148,7 +2404,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739657+00:00",
+      "discovered": "2026-08-24T08:08:53.491646+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2170,7 +2426,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.738871+00:00",
+      "discovered": "2026-08-24T08:08:53.490871+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2192,7 +2448,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275607+00:00",
+      "discovered": "2026-08-24T08:08:51.804826+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2214,7 +2470,49 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275099+00:00",
+      "discovered": "2026-08-24T08:08:51.804307+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "601b7fe3e4f23a15",
+      "title": "Dún Laoghaire-Rathdown County Council",
+      "url": "https://data.gov.ie/organization/dun-laoghaire-rathdown-county-council",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 27,
+      "commercial_score": 38,
+      "tier": "WATCH",
+      "signals": [
+        "council"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774800+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "df6ee6a9e05efc8e",
+      "title": "Dublin City Council",
+      "url": "https://data.gov.ie/organization/dublin-city-council",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 27,
+      "commercial_score": 38,
+      "tier": "WATCH",
+      "signals": [
+        "council"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774684+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2235,7 +2533,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015965+00:00",
+      "discovered": "2026-08-24T08:09:00.890389+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2256,7 +2554,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015727+00:00",
+      "discovered": "2026-08-24T08:09:00.890161+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2277,7 +2575,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015681+00:00",
+      "discovered": "2026-08-24T08:09:00.890112+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2298,7 +2596,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015634+00:00",
+      "discovered": "2026-08-24T08:09:00.890048+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2319,7 +2617,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015447+00:00",
+      "discovered": "2026-08-24T08:09:00.889830+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2340,7 +2638,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015385+00:00",
+      "discovered": "2026-08-24T08:09:00.889771+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2361,7 +2659,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015305+00:00",
+      "discovered": "2026-08-24T08:09:00.889693+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2382,7 +2680,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015173+00:00",
+      "discovered": "2026-08-24T08:09:00.889569+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2403,7 +2701,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015135+00:00",
+      "discovered": "2026-08-24T08:09:00.889533+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2424,7 +2722,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015098+00:00",
+      "discovered": "2026-08-24T08:09:00.889493+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2445,7 +2743,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.015061+00:00",
+      "discovered": "2026-08-24T08:09:00.889439+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2466,7 +2764,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014975+00:00",
+      "discovered": "2026-08-24T08:09:00.889358+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2487,7 +2785,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014938+00:00",
+      "discovered": "2026-08-24T08:09:00.889323+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2508,7 +2806,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014901+00:00",
+      "discovered": "2026-08-24T08:09:00.889289+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2529,7 +2827,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014839+00:00",
+      "discovered": "2026-08-24T08:09:00.889222+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2550,7 +2848,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014801+00:00",
+      "discovered": "2026-08-24T08:09:00.889186+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2571,7 +2869,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014736+00:00",
+      "discovered": "2026-08-24T08:09:00.889125+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2592,7 +2890,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014671+00:00",
+      "discovered": "2026-08-24T08:09:00.889064+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2613,7 +2911,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014629+00:00",
+      "discovered": "2026-08-24T08:09:00.889026+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2634,7 +2932,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014581+00:00",
+      "discovered": "2026-08-24T08:09:00.888984+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2655,7 +2953,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014484+00:00",
+      "discovered": "2026-08-24T08:09:00.888919+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2676,7 +2974,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:31.014250+00:00",
+      "discovered": "2026-08-24T08:09:00.888697+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2698,7 +2996,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.740110+00:00",
+      "discovered": "2026-08-24T08:08:53.492091+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2720,7 +3018,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739761+00:00",
+      "discovered": "2026-08-24T08:08:53.491745+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2741,7 +3039,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275381+00:00",
+      "discovered": "2026-08-24T08:08:51.804620+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2762,7 +3060,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275141+00:00",
+      "discovered": "2026-08-24T08:08:51.804351+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2784,7 +3082,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904449+00:00",
+      "discovered": "2026-08-24T08:09:03.394900+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2805,7 +3103,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.558885+00:00",
+      "discovered": "2026-08-24T08:08:56.226749+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2826,7 +3124,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.558842+00:00",
+      "discovered": "2026-08-24T08:08:56.226707+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2847,7 +3145,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.558573+00:00",
+      "discovered": "2026-08-24T08:08:56.226433+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2868,7 +3166,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.557731+00:00",
+      "discovered": "2026-08-24T08:08:56.225684+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2889,7 +3187,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.767787+00:00",
+      "discovered": "2026-08-24T08:08:50.417059+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2910,7 +3208,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.767745+00:00",
+      "discovered": "2026-08-24T08:08:50.417016+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2931,7 +3229,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.767570+00:00",
+      "discovered": "2026-08-24T08:08:50.416844+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2952,7 +3250,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.767521+00:00",
+      "discovered": "2026-08-24T08:08:50.416803+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2973,7 +3271,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.766566+00:00",
+      "discovered": "2026-08-24T08:08:50.415799+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -2994,7 +3292,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.766053+00:00",
+      "discovered": "2026-08-24T08:08:50.415300+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3015,7 +3313,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:20.767002+00:00",
+      "discovered": "2026-08-24T08:08:50.416238+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3038,7 +3336,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309730+00:00",
+      "discovered": "2026-08-24T08:08:59.594609+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3059,7 +3357,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512562+00:00",
+      "discovered": "2026-08-24T08:08:57.735865+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3080,7 +3378,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512108+00:00",
+      "discovered": "2026-08-24T08:08:57.735442+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3101,7 +3399,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511977+00:00",
+      "discovered": "2026-08-24T08:08:57.735305+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3122,7 +3420,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511889+00:00",
+      "discovered": "2026-08-24T08:08:57.735207+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3143,7 +3441,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511823+00:00",
+      "discovered": "2026-08-24T08:08:57.735141+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3164,7 +3462,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511729+00:00",
+      "discovered": "2026-08-24T08:08:57.735051+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3185,7 +3483,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511629+00:00",
+      "discovered": "2026-08-24T08:08:57.734956+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3206,7 +3504,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511533+00:00",
+      "discovered": "2026-08-24T08:08:57.734869+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3227,7 +3525,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511469+00:00",
+      "discovered": "2026-08-24T08:08:57.734827+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3248,7 +3546,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511307+00:00",
+      "discovered": "2026-08-24T08:08:57.734668+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3269,7 +3567,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.857194+00:00",
+      "discovered": "2026-08-24T08:08:55.547315+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3290,7 +3588,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.857158+00:00",
+      "discovered": "2026-08-24T08:08:55.547278+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3311,7 +3609,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.245021+00:00",
+      "discovered": "2026-08-24T08:08:54.844041+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3332,7 +3630,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244986+00:00",
+      "discovered": "2026-08-24T08:08:54.844006+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3353,7 +3651,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244823+00:00",
+      "discovered": "2026-08-24T08:08:54.843848+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3374,7 +3672,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244784+00:00",
+      "discovered": "2026-08-24T08:08:54.843808+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3395,7 +3693,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.243769+00:00",
+      "discovered": "2026-08-24T08:08:54.842798+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3416,7 +3714,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.243725+00:00",
+      "discovered": "2026-08-24T08:08:54.842757+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3437,7 +3735,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.243637+00:00",
+      "discovered": "2026-08-24T08:08:54.842675+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3458,7 +3756,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.243340+00:00",
+      "discovered": "2026-08-24T08:08:54.842417+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3479,7 +3777,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739709+00:00",
+      "discovered": "2026-08-24T08:08:53.491699+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3500,7 +3798,28 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739076+00:00",
+      "discovered": "2026-08-24T08:08:53.491067+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "f0731402257d65ca",
+      "title": "Department of Housing,...",
+      "url": "https://data.gov.ie/organization/department-of-housing-local-government-and-heritage",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 23,
+      "commercial_score": 34,
+      "tier": "WATCH",
+      "signals": [
+        "government"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071268+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3521,7 +3840,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244219+00:00",
+      "discovered": "2026-08-24T08:08:54.843222+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3542,7 +3861,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.244141+00:00",
+      "discovered": "2026-08-24T08:08:54.843148+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3563,7 +3882,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.243949+00:00",
+      "discovered": "2026-08-24T08:08:54.842967+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3584,7 +3903,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.243807+00:00",
+      "discovered": "2026-08-24T08:08:54.842835+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3605,7 +3924,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.740143+00:00",
+      "discovered": "2026-08-24T08:08:53.492124+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3626,7 +3945,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739980+00:00",
+      "discovered": "2026-08-24T08:08:53.491962+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3647,7 +3966,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739943+00:00",
+      "discovered": "2026-08-24T08:08:53.491925+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3668,7 +3987,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739884+00:00",
+      "discovered": "2026-08-24T08:08:53.491868+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3689,7 +4008,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739581+00:00",
+      "discovered": "2026-08-24T08:08:53.491571+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3710,7 +4029,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739539+00:00",
+      "discovered": "2026-08-24T08:08:53.491531+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3731,7 +4050,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739410+00:00",
+      "discovered": "2026-08-24T08:08:53.491399+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3752,7 +4071,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.739116+00:00",
+      "discovered": "2026-08-24T08:08:53.491105+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3773,7 +4092,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:23.738934+00:00",
+      "discovered": "2026-08-24T08:08:53.490929+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3794,7 +4113,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.276653+00:00",
+      "discovered": "2026-08-24T08:08:51.805838+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3815,7 +4134,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.276618+00:00",
+      "discovered": "2026-08-24T08:08:51.805804+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3836,7 +4155,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.276446+00:00",
+      "discovered": "2026-08-24T08:08:51.805657+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3857,7 +4176,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.276400+00:00",
+      "discovered": "2026-08-24T08:08:51.805621+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3878,7 +4197,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275843+00:00",
+      "discovered": "2026-08-24T08:08:51.805072+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3899,7 +4218,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275752+00:00",
+      "discovered": "2026-08-24T08:08:51.804982+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3920,7 +4239,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275699+00:00",
+      "discovered": "2026-08-24T08:08:51.804921+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3941,7 +4260,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275651+00:00",
+      "discovered": "2026-08-24T08:08:51.804872+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3962,7 +4281,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275544+00:00",
+      "discovered": "2026-08-24T08:08:51.804764+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -3983,7 +4302,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.275054+00:00",
+      "discovered": "2026-08-24T08:08:51.804253+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4004,7 +4323,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:22.274832+00:00",
+      "discovered": "2026-08-24T08:08:51.804043+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4025,7 +4344,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.059144+00:00",
+      "discovered": "2026-08-24T08:09:11.838755+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4046,7 +4365,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058982+00:00",
+      "discovered": "2026-08-24T08:09:11.838612+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4067,7 +4386,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058899+00:00",
+      "discovered": "2026-08-24T08:09:11.838535+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4088,7 +4407,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058144+00:00",
+      "discovered": "2026-08-24T08:09:11.837854+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4109,7 +4428,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.058056+00:00",
+      "discovered": "2026-08-24T08:09:11.837779+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4130,7 +4449,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057971+00:00",
+      "discovered": "2026-08-24T08:09:11.837702+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4151,7 +4470,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057892+00:00",
+      "discovered": "2026-08-24T08:09:11.837626+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4172,7 +4491,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057253+00:00",
+      "discovered": "2026-08-24T08:09:11.837017+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4193,7 +4512,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057079+00:00",
+      "discovered": "2026-08-24T08:09:11.836859+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4214,7 +4533,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.057009+00:00",
+      "discovered": "2026-08-24T08:09:11.836797+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4235,7 +4554,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056936+00:00",
+      "discovered": "2026-08-24T08:09:11.836730+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4256,7 +4575,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056859+00:00",
+      "discovered": "2026-08-24T08:09:11.836657+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4277,7 +4596,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056453+00:00",
+      "discovered": "2026-08-24T08:09:11.836289+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4298,7 +4617,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056404+00:00",
+      "discovered": "2026-08-24T08:09:11.836246+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4319,7 +4638,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056291+00:00",
+      "discovered": "2026-08-24T08:09:11.836152+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4340,7 +4659,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056241+00:00",
+      "discovered": "2026-08-24T08:09:11.836106+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4361,7 +4680,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.907258+00:00",
+      "discovered": "2026-08-24T08:09:03.399206+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4382,7 +4701,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.907224+00:00",
+      "discovered": "2026-08-24T08:09:03.399153+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4403,7 +4722,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.907153+00:00",
+      "discovered": "2026-08-24T08:09:03.399052+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4424,7 +4743,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.907117+00:00",
+      "discovered": "2026-08-24T08:09:03.399000+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4445,7 +4764,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.907061+00:00",
+      "discovered": "2026-08-24T08:09:03.398918+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4466,7 +4785,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.906427+00:00",
+      "discovered": "2026-08-24T08:09:03.398027+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4487,7 +4806,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.906389+00:00",
+      "discovered": "2026-08-24T08:09:03.397970+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4508,7 +4827,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.906351+00:00",
+      "discovered": "2026-08-24T08:09:03.397913+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4529,7 +4848,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.906311+00:00",
+      "discovered": "2026-08-24T08:09:03.397857+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4550,7 +4869,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.906179+00:00",
+      "discovered": "2026-08-24T08:09:03.397660+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4571,7 +4890,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.906055+00:00",
+      "discovered": "2026-08-24T08:09:03.397405+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4592,7 +4911,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.905731+00:00",
+      "discovered": "2026-08-24T08:09:03.396921+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4613,7 +4932,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.905420+00:00",
+      "discovered": "2026-08-24T08:09:03.396367+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4634,7 +4953,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904086+00:00",
+      "discovered": "2026-08-24T08:09:03.394178+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4655,7 +4974,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904049+00:00",
+      "discovered": "2026-08-24T08:09:03.394081+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4676,7 +4995,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904013+00:00",
+      "discovered": "2026-08-24T08:09:03.393985+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4697,7 +5016,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903976+00:00",
+      "discovered": "2026-08-24T08:09:03.393875+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4718,7 +5037,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903937+00:00",
+      "discovered": "2026-08-24T08:09:03.393749+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4739,7 +5058,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903899+00:00",
+      "discovered": "2026-08-24T08:09:03.393632+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4760,7 +5079,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903861+00:00",
+      "discovered": "2026-08-24T08:09:03.393421+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4781,7 +5100,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903822+00:00",
+      "discovered": "2026-08-24T08:09:03.393296+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4802,7 +5121,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903782+00:00",
+      "discovered": "2026-08-24T08:09:03.393233+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4823,7 +5142,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903742+00:00",
+      "discovered": "2026-08-24T08:09:03.393190+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4844,7 +5163,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903704+00:00",
+      "discovered": "2026-08-24T08:09:03.393149+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4865,7 +5184,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903663+00:00",
+      "discovered": "2026-08-24T08:09:03.393105+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4886,7 +5205,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903621+00:00",
+      "discovered": "2026-08-24T08:09:03.393061+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4907,7 +5226,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903579+00:00",
+      "discovered": "2026-08-24T08:09:03.393018+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4928,7 +5247,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.903460+00:00",
+      "discovered": "2026-08-24T08:09:03.392914+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4949,7 +5268,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.312087+00:00",
+      "discovered": "2026-08-24T08:08:59.596971+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4970,7 +5289,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.312048+00:00",
+      "discovered": "2026-08-24T08:08:59.596932+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -4991,7 +5310,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.312012+00:00",
+      "discovered": "2026-08-24T08:08:59.596893+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5012,7 +5331,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311976+00:00",
+      "discovered": "2026-08-24T08:08:59.596855+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5033,7 +5352,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311939+00:00",
+      "discovered": "2026-08-24T08:08:59.596814+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5054,7 +5373,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311616+00:00",
+      "discovered": "2026-08-24T08:08:59.596491+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5075,7 +5394,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311339+00:00",
+      "discovered": "2026-08-24T08:08:59.596229+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5096,7 +5415,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311242+00:00",
+      "discovered": "2026-08-24T08:08:59.596132+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5117,7 +5436,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311207+00:00",
+      "discovered": "2026-08-24T08:08:59.596097+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5138,7 +5457,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.311062+00:00",
+      "discovered": "2026-08-24T08:08:59.595951+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5159,7 +5478,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309448+00:00",
+      "discovered": "2026-08-24T08:08:59.594325+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5180,7 +5499,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309295+00:00",
+      "discovered": "2026-08-24T08:08:59.594174+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5201,7 +5520,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309256+00:00",
+      "discovered": "2026-08-24T08:08:59.594135+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5222,7 +5541,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309217+00:00",
+      "discovered": "2026-08-24T08:08:59.594096+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5243,7 +5562,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309176+00:00",
+      "discovered": "2026-08-24T08:08:59.594051+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5264,7 +5583,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309133+00:00",
+      "discovered": "2026-08-24T08:08:59.594008+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5285,7 +5604,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.308920+00:00",
+      "discovered": "2026-08-24T08:08:59.593793+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5307,7 +5626,91 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856674+00:00",
+      "discovered": "2026-08-24T08:08:55.546800+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "b76463f75c74bdb3",
+      "title": "Department of Public Expenditure Infrastructure Public Service Reform and Digitalisation",
+      "url": "http://per.gov.ie",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 26,
+      "commercial_score": 32,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.774923+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "b5e6d5e6962d0858",
+      "title": "Re-Use of Public Sector Information",
+      "url": "https://data.gov.ie/pages/re-useofpublicsectorinformation",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 26,
+      "commercial_score": 32,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.773752+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "3b5bed8417923e4c",
+      "title": "Resources & Publications",
+      "url": "https://data.gov.ie/resources",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 26,
+      "commercial_score": 32,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.773698+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "1d5af0b5055d6149",
+      "title": "Publishers",
+      "url": "https://data.gov.ie/organization/",
+      "source": "Ireland Open Data Vacant Sites",
+      "country": "Ireland",
+      "category": "vacant-land",
+      "score": 26,
+      "commercial_score": 32,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:06.773446+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5328,7 +5731,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.559867+00:00",
+      "discovered": "2026-08-24T08:08:56.227682+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5349,7 +5752,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.559823+00:00",
+      "discovered": "2026-08-24T08:08:56.227639+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5371,7 +5774,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904814+00:00",
+      "discovered": "2026-08-24T08:09:03.395395+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5393,7 +5796,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904372+00:00",
+      "discovered": "2026-08-24T08:09:03.394784+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5415,7 +5818,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904334+00:00",
+      "discovered": "2026-08-24T08:09:03.394721+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5437,7 +5840,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904295+00:00",
+      "discovered": "2026-08-24T08:09:03.394637+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5459,7 +5862,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904254+00:00",
+      "discovered": "2026-08-24T08:09:03.394448+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5481,7 +5884,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.904207+00:00",
+      "discovered": "2026-08-24T08:09:03.394383+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5503,7 +5906,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309852+00:00",
+      "discovered": "2026-08-24T08:08:59.594732+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5525,7 +5928,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309811+00:00",
+      "discovered": "2026-08-24T08:08:59.594691+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5546,7 +5949,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.559033+00:00",
+      "discovered": "2026-08-24T08:08:56.226889+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5567,7 +5970,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.558982+00:00",
+      "discovered": "2026-08-24T08:08:56.226840+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5588,7 +5991,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.558300+00:00",
+      "discovered": "2026-08-24T08:08:56.226212+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5609,7 +6012,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.557775+00:00",
+      "discovered": "2026-08-24T08:08:56.225727+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5630,7 +6033,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.557480+00:00",
+      "discovered": "2026-08-24T08:08:56.225455+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5651,7 +6054,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.513249+00:00",
+      "discovered": "2026-08-24T08:08:57.736547+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5672,7 +6075,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512514+00:00",
+      "discovered": "2026-08-24T08:08:57.735825+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5693,7 +6096,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512385+00:00",
+      "discovered": "2026-08-24T08:08:57.735719+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5714,7 +6117,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512350+00:00",
+      "discovered": "2026-08-24T08:08:57.735685+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5735,7 +6138,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512310+00:00",
+      "discovered": "2026-08-24T08:08:57.735650+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5756,7 +6159,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512270+00:00",
+      "discovered": "2026-08-24T08:08:57.735617+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5777,7 +6180,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512234+00:00",
+      "discovered": "2026-08-24T08:08:57.735582+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5798,7 +6201,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512197+00:00",
+      "discovered": "2026-08-24T08:08:57.735546+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5819,7 +6222,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.512156+00:00",
+      "discovered": "2026-08-24T08:08:57.735501+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5840,7 +6243,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511159+00:00",
+      "discovered": "2026-08-24T08:08:57.734516+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5861,7 +6264,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.511114+00:00",
+      "discovered": "2026-08-24T08:08:57.734448+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5882,7 +6285,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.510826+00:00",
+      "discovered": "2026-08-24T08:08:57.734172+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5903,7 +6306,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.510773+00:00",
+      "discovered": "2026-08-24T08:08:57.734121+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5924,7 +6327,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:27.510529+00:00",
+      "discovered": "2026-08-24T08:08:57.733905+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5945,7 +6348,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.857113+00:00",
+      "discovered": "2026-08-24T08:08:55.547234+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5966,7 +6369,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.857056+00:00",
+      "discovered": "2026-08-24T08:08:55.547178+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -5987,7 +6390,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.857017+00:00",
+      "discovered": "2026-08-24T08:08:55.547139+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6008,7 +6411,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856956+00:00",
+      "discovered": "2026-08-24T08:08:55.547081+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6029,7 +6432,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856895+00:00",
+      "discovered": "2026-08-24T08:08:55.547012+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6050,7 +6453,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856853+00:00",
+      "discovered": "2026-08-24T08:08:55.546972+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6071,7 +6474,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856811+00:00",
+      "discovered": "2026-08-24T08:08:55.546930+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6092,7 +6495,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856771+00:00",
+      "discovered": "2026-08-24T08:08:55.546893+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6113,7 +6516,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856711+00:00",
+      "discovered": "2026-08-24T08:08:55.546834+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6134,7 +6537,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856627+00:00",
+      "discovered": "2026-08-24T08:08:55.546760+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6155,7 +6558,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856593+00:00",
+      "discovered": "2026-08-24T08:08:55.546726+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6176,7 +6579,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856551+00:00",
+      "discovered": "2026-08-24T08:08:55.546688+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6197,7 +6600,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856477+00:00",
+      "discovered": "2026-08-24T08:08:55.546649+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6218,7 +6621,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856390+00:00",
+      "discovered": "2026-08-24T08:08:55.546563+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6239,7 +6642,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856353+00:00",
+      "discovered": "2026-08-24T08:08:55.546508+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6260,7 +6663,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856313+00:00",
+      "discovered": "2026-08-24T08:08:55.546446+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6281,7 +6684,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856142+00:00",
+      "discovered": "2026-08-24T08:08:55.546269+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6302,7 +6705,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856072+00:00",
+      "discovered": "2026-08-24T08:08:55.546207+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6323,7 +6726,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:25.856003+00:00",
+      "discovered": "2026-08-24T08:08:55.546138+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6344,7 +6747,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.141777+00:00",
+      "discovered": "2026-08-24T08:09:09.900091+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6365,7 +6768,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139112+00:00",
+      "discovered": "2026-08-24T08:09:09.897810+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6386,7 +6789,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.139084+00:00",
+      "discovered": "2026-08-24T08:09:09.897784+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6407,7 +6810,322 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:38.138288+00:00",
+      "discovered": "2026-08-24T08:09:09.896978+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "2f8f54f255ee733c",
+      "title": "Manage Cookie Preferences",
+      "url": "https://data.gov.ie/dataset/national-planning-applications?package_type=dataset",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.072279+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "e3b7993fbbb648b6",
+      "title": "Department of Public Expenditure Infrastructure Public Service Reform and Digitalisation",
+      "url": "http://per.gov.ie",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.072074+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "b005eb30f3d23832",
+      "title": "Planning Applications",
+      "url": "https://data.gov.ie/dataset/?tags=Planning+Applications",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071989+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "7441204b27808c24",
+      "title": "National Planning A...",
+      "url": "https://data.gov.ie/dataset/?tags=National+Planning+Application+Database",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071953+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "149f08ffe04a2a4c",
+      "title": "National Planning Application Points",
+      "url": "https://data.gov.ie/dataset/18020dbe-8565-47d0-8632-a8fc4dc540a0/resource/785edb2d-90e4-4142-8058-d099223e8a38",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071870+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "04d60ef947c4bd5e",
+      "title": "Download",
+      "url": "https://services.arcgis.com/NzlPQPKn5QF9v2US/arcgis/rest/services/IrishPlanningApplications/FeatureServer/1/query?outFields=*&where=1%3D1",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071782+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "e3f0ebad9ec4fee4",
+      "title": "Download",
+      "url": "https://services.arcgis.com/NzlPQPKn5QF9v2US/arcgis/rest/services/IrishPlanningApplications/FeatureServer/0/query?outFields=*&where=1%3D1",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071670+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "f245cb28c8c88f83",
+      "title": "Download",
+      "url": "https://services.arcgis.com/NzlPQPKn5QF9v2US/arcgis/rest/services/IrishPlanningApplications/FeatureServer",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071600+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "e6c0b7be68b8fb67",
+      "title": "View showcases with this dataset",
+      "url": "https://data.gov.ie/dataset/showcases/national-planning-applications",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071494+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "0cb21b5b79023766",
+      "title": "Dataset Actions",
+      "url": "https://data.gov.ie/dataset/national-planning-applications?package_type=dataset#actions",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071434+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "c6723a8996192904",
+      "title": "National Planning Applications",
+      "url": "https://data.gov.ie/dataset/national-planning-applications",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.071309+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "a11dbfc42368c2be",
+      "title": "Re-Use of Public Sector Information",
+      "url": "https://data.gov.ie/pages/re-useofpublicsectorinformation",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.070937+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "0bb7afde2c97fec8",
+      "title": "Resources & Publications",
+      "url": "https://data.gov.ie/resources",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.070873+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "711919ab09df7cd9",
+      "title": "Publishers",
+      "url": "https://data.gov.ie/organization/",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "pub"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.070593+00:00",
+      "status": "new",
+      "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
+    },
+    {
+      "id": "9775bb677a053c5b",
+      "title": "Skip to content",
+      "url": "https://data.gov.ie/dataset/national-planning-applications?package_type=dataset#content",
+      "source": "Ireland National Planning Applications",
+      "country": "Ireland",
+      "category": "planning",
+      "score": 22,
+      "commercial_score": 28,
+      "tier": "WATCH",
+      "signals": [
+        "planning"
+      ],
+      "next_action": "Verify planning, ownership, constraints, value uplift and developer/investor fit.",
+      "evidence_confidence": "Low",
+      "estimated_fee_gbp": 0,
+      "repeat_signal": false,
+      "discovered": "2026-08-24T08:09:05.070462+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6428,7 +7146,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:32.905202+00:00",
+      "discovered": "2026-08-24T08:09:03.396057+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6449,7 +7167,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.312536+00:00",
+      "discovered": "2026-08-24T08:08:59.597382+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6470,7 +7188,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.059976+00:00",
+      "discovered": "2026-08-24T08:09:11.839517+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6491,7 +7209,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:40.056569+00:00",
+      "discovered": "2026-08-24T08:09:11.836372+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6512,7 +7230,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.312580+00:00",
+      "discovered": "2026-08-24T08:08:59.597423+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6533,7 +7251,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309998+00:00",
+      "discovered": "2026-08-24T08:08:59.594867+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6554,7 +7272,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309769+00:00",
+      "discovered": "2026-08-24T08:08:59.594649+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6575,7 +7293,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309687+00:00",
+      "discovered": "2026-08-24T08:08:59.594566+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6596,7 +7314,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309645+00:00",
+      "discovered": "2026-08-24T08:08:59.594523+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6617,7 +7335,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309407+00:00",
+      "discovered": "2026-08-24T08:08:59.594284+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6638,7 +7356,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:29.309365+00:00",
+      "discovered": "2026-08-24T08:08:59.594242+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6659,7 +7377,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.558475+00:00",
+      "discovered": "2026-08-24T08:08:56.226365+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6680,7 +7398,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:21:26.558007+00:00",
+      "discovered": "2026-08-24T08:08:56.225947+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6701,7 +7419,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067719+00:00",
+      "discovered": "2026-08-24T08:09:08.164503+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6723,7 +7441,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067232+00:00",
+      "discovered": "2026-08-24T08:09:08.164041+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6744,7 +7462,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067487+00:00",
+      "discovered": "2026-08-24T08:09:08.164282+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6765,7 +7483,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067796+00:00",
+      "discovered": "2026-08-24T08:09:08.164591+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6786,7 +7504,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067613+00:00",
+      "discovered": "2026-08-24T08:09:08.164371+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6807,7 +7525,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067436+00:00",
+      "discovered": "2026-08-24T08:09:08.164234+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6828,7 +7546,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067387+00:00",
+      "discovered": "2026-08-24T08:09:08.164189+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     },
@@ -6849,7 +7567,7 @@
       "evidence_confidence": "Low",
       "estimated_fee_gbp": 0,
       "repeat_signal": true,
-      "discovered": "2026-08-23T07:22:36.067167+00:00",
+      "discovered": "2026-08-24T08:09:08.163982+00:00",
       "status": "new",
       "evidence": "Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal."
     }
