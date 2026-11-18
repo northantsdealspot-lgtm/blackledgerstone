@@ -41,6 +41,26 @@ def commercialise(score,signals,category,country,seen_before=False):
     estimated_fee=MIN_FEE_GBP if tier in ('T1','T2') else 0
     return commercial,tier,action,evidence_confidence,estimated_fee
 
+def negotiation_search_layer(lead):
+    """Add investor-led investigation without changing existing searches or scoring."""
+    t=(lead.get('title','')+' '+' '.join(lead.get('signals',[]))).lower()
+    groups={'reduced price':['reduced','price drop'],'failed sale':['fallen through','relisted','failed sale'],'distress':['vacant','probate','receiver','repossess'],'refurbishment':['renovation','refurb','modernisation','water damage'],'withdrawn or unsold':['withdrawn','unsold','expired']}
+    flags=[name for name,terms in groups.items() if any(term in t for term in terms)]
+    lead['negotiation_intelligence']={
+      'signals':flags,'investor_mandate':'Unmatched; check investor-specific requirements',
+      'asking_price_gbp':None,'opening_offer_gbp':None,'maximum_offer_gbp':None,
+      'verified_resale_value_gbp':None,'refurbishment_gbp':None,'contingency_gbp':None,
+      'finance_and_holding_gbp':None,'purchase_and_sale_costs_gbp':None,
+      'investor_profit_gbp':None,'sourcing_fee_gbp':None,
+      'verification':'Unverified; do not infer offers, valuations or profits from search text',
+      'research_steps':['Historical listings and price changes','Legal holds, title and defects',
+        'Independently evidenced sold comparables','Full refurbishment, taxes, finance and exit costs',
+        'Investor mandate and maximum viable acquisition price','Agent negotiation and counteroffer potential'],
+      'agent_contacted':False,'offer_sent':False,'investor_release_approved':False,
+      'deadline_rule':'Expired deadline does not establish sold status',
+      'negotiation_status':'Investigation candidate; no authorised offer'}
+    return lead
+
 def prior_ids():
     try:
         old=json.loads(OUT.read_text(encoding='utf-8'))
@@ -61,13 +81,13 @@ def scan_source(src,old_ids):
             if not sigs or len(txt)<8 or href in seen: continue
             seen.add(href); lead_id=uid(src['name'],href,txt)
             commercial,tier,action,confidence,fee=commercialise(sc,sigs,src['category'],src['country'],lead_id in old_ids)
-            rows.append({
+            rows.append(negotiation_search_layer({
               'id':lead_id,'title':txt[:220],'url':href,'source':src['name'],'country':src['country'],
               'category':src['category'],'score':sc,'commercial_score':commercial,'tier':tier,'signals':sigs,
               'next_action':action,'evidence_confidence':confidence,'estimated_fee_gbp':fee,
               'repeat_signal':lead_id in old_ids,'discovered':datetime.now(timezone.utc).isoformat(),
               'status':'new','evidence':'Public web page link; verify availability, ownership, price, title, planning and buyer fit before treating as a deal.'
-            })
+            }))
         return sorted(rows,key=lambda x:x['commercial_score'],reverse=True)[:40], None
     except Exception as e:
         return [], f'{type(e).__name__}: {e}'
